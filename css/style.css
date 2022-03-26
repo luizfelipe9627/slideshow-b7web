@@ -74,3 +74,9 @@ body {
     cursor: pointer;
     width: 45px;
 }
+
+@media (min-width: 320px) and (max-width: 425px) {
+    .slider-img {
+        font-size: 30px;
+    }
+}

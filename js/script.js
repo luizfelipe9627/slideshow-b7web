@@ -51,4 +51,4 @@ function updateMargin() {
 }
 
 // Usado para passar os slides sozinho. Só tirar de dentro do comentário:
-setInterval(goNext, 4000)
+// setInterval(goNext, 3000);
