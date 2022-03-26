@@ -1,7 +1,7 @@
 # Slideshow
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/assets/videos/slideshow.gif" alt="Site">
+<img src="https://github.com/luizfelipe9627/slideshow/blob/master/assets/videos/slideshow.gif" alt="Site">
 
 ## 📄 Descrição
 Foi criado um slideshow que fica passando de slide para slide de forma automática, foi colocado controles caso o usuário queira ir passando ou voltando de forma manual.
