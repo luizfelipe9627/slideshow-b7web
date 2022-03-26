@@ -4,7 +4,7 @@
 <img src="https://github.com/luizfelipe9627/desafiocodelandia2/blob/master/assets/videos/slideshow.gif" alt="Site">
 
 ## 📄 Descrição
-Foi criado um slideshow que fica passando de slide para slide, com controles caso o usuário queira ir passando de forma manual.
+Foi criado um slideshow que fica passando de slide para slide de forma automática, foi colocado controles caso o usuário queira ir passando ou voltando de forma manual.
 
 ### <a href="https://luizfelipe9627.github.io/jordan-shoes">Acesse o site</a>
 
