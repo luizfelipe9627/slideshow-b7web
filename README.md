@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Foi criado um slideshow que fica passando de slide para slide, foi colocado controles caso o usuário queira ir passando ou voltando de forma manual.
 
-### <a href="https://luizfelipe9627.github.io/jordan-shoes">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/slideshow">Acesse o site</a>
 
 ## 📑 Observação
 Esse não foi bem um projeto, foi feito com o intuito de praticar e aumentar o conhecimento em JavaScript.
