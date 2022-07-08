@@ -3,43 +3,45 @@
 <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, user-scalable=0">
-        <link rel="stylesheet" href="/css/style.css">
-        <link rel="stylesheet" href="https://luizfelipe9627.github.io/slideshow/css/style.css" rel="stylesheet"/> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./assets/css/style.min.css">
         <title>SlideShow</title>
     </head>
 
     <body>
         <header>
             <div class="header"></div>
+        </header>
 
+        <section>
             <div class="container_slider">
                 <div class="slider">
                     <div class="slider-controls">
-                        <div class="slider-control" onclick="goPrev()"><img src="https://luizfelipe9627.github.io/slideshow/assets/icons/seta-esquerda.svg" alt=""></div>
-                        <div class="slider-control" onclick="goNext()"><img src="https://luizfelipe9627.github.io/slideshow/assets/icons/seta-direita.svg" alt=""></div>
+                        <div class="slider-control" onclick="goPrev()">
+                            <img src="./assets/image/seta-direita.svg" alt="Seta para direita" title="Retroceder" width="100" height="100">
+                        </div>
+
+                        <div class="slider-control" onclick="goNext()">
+                            <img src="./assets/image/seta-esquerda.svg" alt="Seta para esquerda" title="Avançar" width="100" height="100">
+                        </div>
                     </div>
                     
                     <div class="slider-width">
-                        <div class="slider-img" style="background-image: url(https://luizfelipe9627.github.io/slideshow/assets/images/1.jpg);">
+                        <div class="slider-img" style="background-image: url(./assets/image/foto1.webp);">
                             Lorem ipsum 1
                         </div>
 
-                        <div class="slider-img" style="background-image: url(https://luizfelipe9627.github.io/slideshow/assets/images/2.jpg);">
+                        <div class="slider-img" style="background-image: url(./assets/image/foto2.webp);">
                             Lorem ipsum 2
                         </div>
 
-                        <div class="slider-img" style="background-image: url(https://luizfelipe9627.github.io/slideshow/assets/images/3.jpg);">
+                        <div class="slider-img" style="background-image: url(./assets/image/foto3.webp);">
                             Lorem ipsum 3
                         </div>
                     </div>
                 </div>
             </div>
-        </header>
-
-        <section>
-            
         </section>
-        <script src="https://luizfelipe9627.github.io/slideshow/js/script.js"></script>
+        <script src="./assets/js/script.min.js"></script>
     </body>
 </html>
