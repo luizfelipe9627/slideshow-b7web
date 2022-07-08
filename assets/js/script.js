@@ -17,6 +17,7 @@ document.querySelector('.slider-controls').style.height = `${document.querySelec
 document.querySelector('.slider-controls').style.width = `${sliderWidth}px`;
 
 // Uma função responsável por ir para o slide anterior:
+
 function goPrev() {
     // Ele pega o currentSlide e diminui ele:
     currentSlide--;
