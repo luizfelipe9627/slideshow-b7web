@@ -33,6 +33,7 @@
 .slider-controls {
   display: flex;
   justify-content: space-between;
+  padding: 0 20px;
   align-items: stretch;
   position: absolute;
 }
@@ -41,17 +42,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem;
+  padding: 0.625rem 0;
 }
 
 .slider-control img {
   cursor: pointer;
-  width: 2.8125rem;
 }
 
 @media (min-width: 320px) and (max-width: 425px) {
   .slider-img {
-      font-size: 1.875rem;
+    font-size: 1.875rem;
   }
 }
